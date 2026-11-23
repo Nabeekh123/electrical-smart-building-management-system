@@ -118,3 +118,14 @@ Developed as an academic project to apply Object-Oriented Programming concepts t
 ---
 
 **If you find this project interesting, feel free to explore the source code and its implementation.**
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Simulation Results
+![Simulation Results](screenshots/simulation-results.png)
+
+### Optimization Results
+![Optimization Results](screenshots/optimization-results.png)
