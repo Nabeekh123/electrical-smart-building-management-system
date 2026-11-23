@@ -1,0 +1,17 @@
+
+# Compiled executables
+*.exe
+*.out
+*.o
+
+# Generated application data
+building.txt
+devices.txt
+simulation_results.txt
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
