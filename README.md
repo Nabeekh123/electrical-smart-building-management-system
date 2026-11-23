@@ -119,13 +119,38 @@ Developed as an academic project to apply Object-Oriented Programming concepts t
 
 **If you find this project interesting, feel free to explore the source code and its implementation.**
 
+
 ## Screenshots
 
-### Main Menu
-![Main Menu](screenshots/main-menu.png)
+### 1. Main Menu
+![Main Menu](screenshots/01_startup_main_menu.png)
 
-### Simulation Results
-![Simulation Results](screenshots/simulation-results.png)
+### 2. Adding Rooms
+![Adding Rooms](screenshots/02_add_room.png)
 
-### Optimization Results
-![Optimization Results](screenshots/optimization-results.png)
+### 3. Adding Electrical Devices
+![Adding Devices](screenshots/03_add_device.png)
+
+### 4. Building Information
+![Building Information](screenshots/04_display_building.png)
+
+### 5. Device Control
+![Device Control](screenshots/05_control_device.png)
+
+### 6. Energy Simulation
+![Energy Simulation](screenshots/06_energy_simulation.png)
+
+### 7. Energy Optimization
+![Energy Optimization](screenshots/07_optimization.png)
+
+### 8. Save, Load and Results Comparison
+![Save Load and Compare](screenshots/08_save_load_compare.png)
+
+### 9. Startup Input Validation
+![Input Validation](screenshots/09_input_validation_startup.png)
+
+### 10. Error Handling
+![Error Handling](screenshots/10_error_handling_1.png)
+
+### 11. Additional Error Handling
+![Additional Error Handling](screenshots/11_error_handling_2.png)
